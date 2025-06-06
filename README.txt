@@ -1,12 +1,13 @@
 #Projeto Final Wordpress
 
-##Funcionalidades:
-- Página Inicial, notícias e sugestões;
-- 3 publicações de notícias;
-- Formolário de sugestões;
-- Personalização de tema;
-- Gestão de utilizadores.
+Funcionalidades do trabalho:
+- dar às pessoas a conhecer um pouco mais dos nossos gostos musicais tal como lhes dar noticias sobre os nossos artistas, ou mandas, preferidos
 
-## Como executar:
-1. Copiar a pasta "wordpress" para "wamp64/www"
-2. Importar "base dados.sql" no phpMyAdmin
+O trabalho é composto por:
+- 4 artistas/bandas de cada um dos nossos estilos
+- 2 musicas/albuns mais recentes dos mesmos
+- hiperligações que levam diretamente para as paginas de informações dos artistas/ das bandas
+- hiperligações que levam às paginas do spotify dos respetivos artistas/ das respetivas bandas
+
+Este trabalho foi realizado por: 
+João Silva e Gabriel Canteiro para a disciplina de programação do 11º ano.
